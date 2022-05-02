@@ -1,7 +1,7 @@
 # CS80-syle-ribbon-controller
 I have built an Arturia CS80 editor and needed a ribbon controller to go with it.
 
-This is a Teensy 3.6 based ribbon controller, a big thanks to Christer Janson for allowing me to use his code.
+This is a Teensy 3.6 based ribbon controller, a big thanks to Christer Janson for allowing me to use his code and modify it for my needs.
 
 The ribbon detects the first press and sets a baseline, no pitchbend is sent until you move your finger in either direction.
 
